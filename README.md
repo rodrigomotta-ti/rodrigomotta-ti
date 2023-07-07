@@ -2,10 +2,9 @@
 <h5 align="center" dir="auto">Amante da tecnologia, transformação digital e por aplicar meus conhecimentos para ajudar a mudar o mundo através da programação.</h5><br>
 
 ↳ 🔭 I’m currently on **OPEN TO WORK**<br/>
-↳ 🌱 I’m currently learning **.Net Core, TDD and Clear-Code**<br/>
-↳ 👨‍💻 All of my projects are available at https://github.com/rodrigomotta-ti<br/>
-↳ 💬 Ask me about **.NET Core**<br/>
-↳ 📧 Contact me click on <a href="mailto:rodrigodrmotta.dev@gmail.com?subject=Informe o assunto do Email&body=Escreva aqui o conteúdo da mensagem que deseja me enviar" style='font-weight:bold;'>here</a>
+↳ 🌱 I’m currently learning **.Net Core, TDD and Clean Code**<br/>
+↳ 👨‍💻 All my projects are available by **[clicking here](https://github.com/rodrigomotta-ti?tab=repositories)** <br/>
+↳ 💬 Ask me about **.NET Framework**<br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodriigodrmotta)
 [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigodrmotta.dev@gmail.com)
@@ -14,7 +13,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigomotta-ti&show_icons=true&theme=dracula&count_private=true)](https://github.com/rodrigomotta-ti/github-readme-stats)
 
-## Tecnologias que utilizo no meu dia
+<!--## Tecnologias que utilizo diariamente-->
+## Tecnologias que eu uso no meu dia
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-430098?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,6 +23,15 @@
 ![Json](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+<!--## Tecnologias que estou estudando no momento-->
+## Adquirindo conhecimento em
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+<!--![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)-->
+<!--![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)-->
 
 <h2 dir="auto"></h2><br>
 <div style="display:inline_block;" align="center">
