@@ -7,11 +7,6 @@
 ↳ 💬 Ask me about **.NET Core**<br/>
 ↳ 📧 Contact me click on <a href="mailto:rodrigodrmotta.dev@gmail.com?subject=Informe o assunto do Email&body=Escreva aqui o conteúdo da mensagem que deseja me enviar" style='font-weight:bold;'>here</a>
 
-[Teste](https://www.instagram.com/rodriigodrmotta){:target="\_blank"}
-
-[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
-
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodriigodrmotta)
 [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigodrmotta.dev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigodrmotta)
