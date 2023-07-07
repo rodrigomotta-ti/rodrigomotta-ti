@@ -7,6 +7,8 @@
 ↳ 💬 Ask me about **.NET Core**<br/>
 ↳ 📧 Contact me click on <a href="mailto:rodrigodrmotta.dev@gmail.com?subject=Informe o assunto do Email&body=Escreva aqui o conteúdo da mensagem que deseja me enviar" style='font-weight:bold;'>here</a>
 
+[Teste](https://www.instagram.com/rodriigodrmotta{:target="\_blank"})
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodriigodrmotta)
 [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigodrmotta.dev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigodrmotta)
@@ -15,14 +17,14 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigomotta-ti&show_icons=true&theme=dracula&count_private=true)](https://github.com/rodrigomotta-ti/github-readme-stats)
 
 ## Tecnologias que utilizo no meu dia
-[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
-[![C#](https://img.shields.io/badge/C%23-430098?style=for-the-badge&logo=c-sharp&logoColor=white)]()
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![Json](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)]()
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-430098?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Json](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 <h2 dir="auto"></h2><br>
 <div style="display:inline_block;" align="center">
