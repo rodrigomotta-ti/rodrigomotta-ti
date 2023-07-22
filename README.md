@@ -2,9 +2,9 @@
 <h5 align="center" dir="auto">Amante da tecnologia, transformação digital e por aplicar meus conhecimentos para ajudar a mudar o mundo através da programação.</h5><br>
 
 ↳ 🔭 I’m currently on **OPEN TO WORK**<br/>
-↳ 🌱 I’m currently learning **.Net Core, TDD and Clean Code**<br/>
+↳ 🌱 I’m currently learning **<code>.Net Core</code>, <code>TDD</code> and <code>Clean Code</code>**<br/>
 ↳ 👨‍💻 All my projects are available by **[clicking here](https://github.com/rodrigomotta-ti?tab=repositories)** <br/>
-↳ 💬 Ask me about **.NET Framework**<br/>
+↳ 💬 Ask me about **<code>.NET Framework</code>**<br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodriigodrmotta)
 [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigodrmotta.dev@gmail.com)
