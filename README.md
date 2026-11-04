@@ -1,7 +1,7 @@
 <h2 align="center">Olá! Eu sou o <b>Rodrigo Motta</b> 👊</h2>
 <h5 align="center" dir="auto">Amante da tecnologia, transformação digital e por aplicar meus conhecimentos para ajudar a mudar o mundo através da programação.</h5><br>
 
-↳ 🔭 I’m currently on **OPEN TO WORK**<br/>
+↳ 🔭 I’m currently practice **Artificial Intelligence**<br/>
 ↳ 🌱 I’m currently learning **<code>.Net Core</code>, <code>TDD</code> and <code>Clean Code</code>**<br/>
 ↳ 👨‍💻 All my projects are available by **[clicking here](https://github.com/rodrigomotta-ti?tab=repositories)** <br/>
 ↳ 💬 Ask me about **<code>.NET Framework</code>**<br/>
